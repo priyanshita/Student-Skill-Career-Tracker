@@ -110,7 +110,7 @@ src/
 
 ---
 
-## 💻 4. Installation & Execution Guide
+##  4. Installation & Execution Guide
 
 ### Prerequisites
 - **JDK 21** installed (`java -version`, `javac -version`).
