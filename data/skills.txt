@@ -1,0 +1,7 @@
+TECHNICAL|SK-101|Python|ADVANCED|PROGRAMMING|Python 3.11|NumPy, Pandas, PyTorch
+TECHNICAL|SK-102|Machine Learning|INTERMEDIATE|AI_ML|Python|Scikit-Learn, OpenCV
+TECHNICAL|SK-103|SQL|BEGINNER|DATABASES|SQL|PostgreSQL, MySQL
+TECHNICAL|SK-104|Java|INTERMEDIATE|PROGRAMMING|Java 21|JavaFX, Standard Library
+TECHNICAL|SK-105|Data Structures|INTERMEDIATE|PROGRAMMING|C++ / Java|Trees, Graphs, Sorting
+SOFT|SK-201|Communication|ADVANCED|SOFT_SKILLS|Technical Presentations & Viva|5
+SOFT|SK-202|Problem Solving|INTERMEDIATE|SOFT_SKILLS|Hackathons & Coding Challenges|4

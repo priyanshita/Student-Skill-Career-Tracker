@@ -1,0 +1,1 @@
+STU-1001|Alex Johnson|22CSE1042|CSE (AI & ML)|2|alex.johnson@university.edu|AI/ML Engineer

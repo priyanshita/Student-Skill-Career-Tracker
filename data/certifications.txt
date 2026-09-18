@@ -1,0 +1,2 @@
+CRT-01|Supervised Machine Learning|Coursera / DeepLearning.AI|2024-03-15|Machine Learning
+CRT-02|Java Programming Masterclass|Udemy|2023-11-20|Java

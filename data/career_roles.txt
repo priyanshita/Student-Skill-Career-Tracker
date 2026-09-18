@@ -1,0 +1,6 @@
+ROLE-01|AI/ML Engineer|Designs and builds machine learning models, neural networks, and scalable AI solutions.|Python,Machine Learning,Statistics & Math,SQL,Data Structures,Deep Learning|TensorFlow,Git,Problem Solving,Cloud Computing
+ROLE-02|Software Developer|Builds enterprise desktop, web, and backend applications using modern programming languages.|Java,Data Structures,OOP Concepts,SQL,Git,Web Development|Spring Boot,Docker,Agile Teamwork,System Design
+ROLE-03|Data Analyst|Analyzes structured dataset trends, creates business dashboards, and extracts actionable insights.|Python,SQL,Statistics & Math,Excel,Data Visualization|Power BI,Tableau,Communication,Critical Thinking
+ROLE-04|Data Scientist|Combines predictive modeling, statistics, data analytics, and business acumen.|Python,Machine Learning,Statistics & Math,SQL,Data Science Core|R,Big Data,Storytelling,Research Methods
+ROLE-05|Web Developer|Front-end and full-stack web software development.|HTML/CSS,JavaScript,React/Vue,SQL,Web Development|TypeScript,Node.js,Git,UI/UX Design
+ROLE-06|Cloud Engineer|Architects and deploys infrastructure, pipelines, and microservices in cloud environments.|Linux,Networking,Cloud Computing,Python,Docker/DevOps|AWS,Kubernetes,Security,Infrastructure as Code

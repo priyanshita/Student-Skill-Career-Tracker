@@ -1,0 +1,3 @@
+PRJ-01|Image Classifier for Plant Diseases|Built a CNN deep learning model in PyTorch for detecting crop diseases with 94% accuracy.|Python, PyTorch, OpenCV|Lead ML Developer|true
+PRJ-02|Student Management System|JavaFX GUI application for tracking academic registration records and grades.|Java, JavaFX, File I/O|Solo Developer|true
+PRJ-03|Predictive House Price Model|Regression model using Scikit-learn to analyze regional housing prices.|Python, Pandas, Scikit-learn|Data Analyst|false
